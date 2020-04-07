@@ -1,5 +1,7 @@
 # Pandemic Activity Modeller
 
+***** We're [MOVING](https://github.com/arup-group/pam) *****
+
 Modify an existing population activity plan to reflect social and government policy scenarios 
 responding to a pandemic.
 
